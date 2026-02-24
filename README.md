@@ -151,10 +151,9 @@ This project is aimed at:
 
 The repository emphasises:
 
-* Architecture over configuration steps
-* Clear explanation of *why* decisions were made
+* Anonymised Architecture  
 * Real-world rollout considerations
-* Security posture thinking rather than feature checklists
+* Security posture thinking
 
 ---
 

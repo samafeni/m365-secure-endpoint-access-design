@@ -9,7 +9,7 @@
 
 ---
 
-## 📌 Overview
+## Overview
 
 This repository documents a secure endpoint access model designed for a mid-size organisation transitioning toward cloud-managed devices and modern authentication.
 The architecture combines **Microsoft Intune**, **Microsoft Entra ID**, and **Conditional Access** to reduce risk from unmanaged endpoints while maintaining a balanced user experience.
@@ -18,7 +18,7 @@ All organisational details have been anonymised. The goal is to present realisti
 
 ---
 
-## 🧾 Project Summary
+## Project Summary
 
 | Area                | Details                                                 |
 | ------------------- | ------------------------------------------------------- |
@@ -32,7 +32,7 @@ All organisational details have been anonymised. The goal is to present realisti
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 * Design a secure endpoint onboarding and compliance strategy
 * Integrate device posture into Conditional Access decisions
@@ -42,7 +42,7 @@ All organisational details have been anonymised. The goal is to present realisti
 
 ---
 
-## 🏗️ Architecture Summary
+## Architecture Summary
 
 The endpoint access model is built around several core components:
 
@@ -73,21 +73,21 @@ The endpoint access model is built around several core components:
   * SharePoint / OneDrive
   * Exchange Online
 
-📂 Architecture diagrams are located in:
+Architecture diagrams are located in:
 
 ```text
 /diagrams
 ```
 
-Example diagram reference:
+ Diagram reference:
 
 ```md
-![Endpoint Architecture](diagrams/endpoint-architecture.png)
+![Endpoint Architecture](diagrams/endpoint-architecture.gif)
 ```
 
 ---
 
-## 🧭 Design Principles
+## Design Principles
 
 The design follows several core engineering principles:
 
@@ -99,7 +99,7 @@ The design follows several core engineering principles:
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 The documentation mirrors a realistic engineering lifecycle:
 
@@ -113,7 +113,7 @@ challenges-and-considerations.md
 lessons-learned.md
 ```
 
-### 🔗 Quick Navigation
+### Quick Navigation
 
 * [Architecture](architecture.md)
 * [Enrollment Strategy](enrollment-strategy.md)
@@ -125,7 +125,7 @@ lessons-learned.md
 
 ---
 
-## 📐 Scope
+## Scope
 
 
 * Corporate Windows endpoints managed through Microsoft Intune
@@ -136,7 +136,7 @@ lessons-learned.md
 
 ---
 
-## 👥 Intended Audience
+## Intended Audience
 
 This project is aimed at:
 
@@ -147,7 +147,7 @@ This project is aimed at:
 
 ---
 
-## ⚙️ Design Approach
+## Design Approach
 
 The repository emphasises:
 
@@ -157,7 +157,7 @@ The repository emphasises:
 
 ---
 
-## ⚠️ Disclaimer
+## Disclaimer
 
 This repository reflects an anonymised real-world project.
 All organisational identifiers, tenant details, and sensitive information have been removed or generalised for privacy and security purposes.

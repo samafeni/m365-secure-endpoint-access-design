@@ -78,12 +78,9 @@ Architecture diagrams are located in:
 ```text
 /diagrams
 ```
+##  Architecture Overview
 
- Diagram reference:
-
-```md
-![Endpoint Architecture](diagrams/endpoint-architecture.gif)
-```
+![Endpoint Secure Access Architecture](diagrams/endpoint-architecture.gif)
 
 ---
 

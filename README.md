@@ -88,6 +88,16 @@ Architecture diagrams are located in:
 ![Conditional Access Decision Flow](diagrams/conditional-access-flow.gif)
 ---
 
+## Architecture Narrative
+
+This project presents a layered, identity-first endpoint security model designed around Microsoft Entra ID as the primary Zero Trust control point.
+
+The **Endpoint Secure Access Architecture** diagram provides a high-level overview of how devices, identity, management signals, and Microsoft 365 workloads interact to enforce secure access. It illustrates how Microsoft Intune delivers device posture signals, Microsoft Defender for Endpoint contributes risk telemetry, and Conditional Access acts as the policy engine governing access decisions.
+
+The **Conditional Access Decision Flow** diagram shows the policy evaluation process. It demonstrates how authentication context, device compliance, and risk signals are evaluated together to determine whether access is allowed, restricted, or blocked. This layered approach ensures that access decisions are continuous and adaptive rather than static.
+
+Together, these diagrams represent both the structural architecture and the logical enforcement model behind modern endpoint security in Microsoft 365 environments.
+
 ## Design Principles
 
 The design follows several core engineering principles:

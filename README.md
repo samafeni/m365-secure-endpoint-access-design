@@ -4,6 +4,29 @@
 
 ---
 
+## 🧱 Design Index
+
+This repository documents an anonymised Microsoft 365 secure endpoint architecture focused on identity-first access control, device posture, and Conditional Access policy design.
+
+### 📐 Architecture Foundation
+
+* [Endpoint Security Architecture](architecture.md) — High-level identity-first design and component interaction
+* [Device Compliance Design](device-compliance-design.md) — Endpoint posture model and compliance signalling
+* [Conditional Access Integration](conditional-access-integration.md) — Policy enforcement and signal evaluation
+
+### 💻 Endpoint Lifecycle
+
+* [Enrollment Strategy](enrollment-strategy.md) — Autopilot onboarding and device identity establishment
+* [Rollout Plan](rollout-plan.md) — Phased deployment and operational adoption approach
+
+### 🧠 Engineering Perspective
+
+* [Challenges and Considerations](challenges-and-considerations.md) — Real-world trade-offs and architectural constraints
+* [Lessons Learned](lessons-learned.md) — Reflections and future design evolution
+
+---
+
+
 > Secure endpoint architecture derived from an anonymised real-world Microsoft 365 implementation.
 > This project focuses on **design thinking, security posture, and operational considerations** rather than step-by-step configuration.
 

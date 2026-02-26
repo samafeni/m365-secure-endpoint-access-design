@@ -113,4 +113,4 @@ During or immediately after enrollment:
 
 * Configuration profiles establish device settings
 * Endpoint security policies are applied
-* Update management poli
+* Update management policy

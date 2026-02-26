@@ -6,12 +6,11 @@
 
 This document reflects on key insights gained throughout the design and implementation of the secure endpoint access project.
 
-
 ---
 
 ## Identity as the Primary Control Plane
 
-One of the most significant lessons was the importance of positioning identity at the centre of the architecture. While endpoint management and threat protection provide valuable signals, consistent enforcement becomes far more manageable when decisions originate from a single identity layer.
+One of the most significant lessons was the importance of positioning identity at the centre of the work. While endpoint management and threat protection provide valuable signals, consistent enforcement becomes far more manageable when decisions originate from a single identity layer.
 
 Designing around Microsoft Entra ID simplified policy reasoning and ensured that access behaviour remained predictable across different workloads.
 

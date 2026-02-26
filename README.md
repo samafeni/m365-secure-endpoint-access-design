@@ -2,24 +2,25 @@
 
 # Microsoft 365 Secure Endpoint Access Design
 
+Identity-first secure endpoint architecture based on an anonymised mid-size Microsoft 365 deployment.
 ---
 
-## 🧱 Design Index
+## Index
 
 This repository documents an anonymised Microsoft 365 secure endpoint architecture focused on identity-first access control, device posture, and Conditional Access policy design.
 
-### 📐 Architecture Foundation
+### Architecture Foundation
 
 * [Endpoint Security Architecture](architecture.md) — High-level identity-first design and component interaction
 * [Device Compliance Design](device-compliance-design.md) — Endpoint posture model and compliance signalling
 * [Conditional Access Integration](conditional-access-integration.md) — Policy enforcement and signal evaluation
 
-### 💻 Endpoint Lifecycle
+### Endpoint Lifecycle
 
 * [Enrollment Strategy](enrollment-strategy.md) — Autopilot onboarding and device identity establishment
 * [Rollout Plan](rollout-plan.md) — Phased deployment and operational adoption approach
 
-### 🧠 Engineering Perspective
+### Engineering Perspective
 
 * [Challenges and Considerations](challenges-and-considerations.md) — Real-world trade-offs and architectural constraints
 * [Lessons Learned](lessons-learned.md) — Reflections and future design evolution
@@ -67,7 +68,7 @@ All organisational details have been anonymised. The goal is to present realisti
 
 ## Architecture Summary
 
-The endpoint access model is built around several core components:
+The endpoint access model centres around several core control layers:
 
 * **Microsoft Intune**
 

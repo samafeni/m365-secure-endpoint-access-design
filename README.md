@@ -194,7 +194,6 @@ The repository emphasises:
 
 ## Disclaimer
 
-This repository reflects an anonymised real-world project.
-All organisational identifiers, tenant details, and sensitive information have been removed or generalised for privacy and security purposes.
+This documentation represents a reconstructed architectural view of an endpoint security design. All tenant information, organisational identifiers, and environment-specific configurations have been removed or altered to preserve confidentiality. The intention is to share design thinking and architectural structure without exposing operational details.
 
 ---

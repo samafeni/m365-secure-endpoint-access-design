@@ -66,7 +66,7 @@ Key design considerations included:
 
 Following Autopilot provisioning, devices enroll into Microsoft Intune where management policies and compliance requirements are applied.
 
-Enrollment ensures:
+Enrollment ensures: 
 
 * Device identity is associated with the user
 * Configuration profiles and security baselines are delivered

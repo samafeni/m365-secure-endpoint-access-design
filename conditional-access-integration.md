@@ -135,5 +135,5 @@ Together, these components form a cohesive enforcement model aligned with identi
 
 Conditional Access acts as the central enforcement layer that brings together identity, device posture, and risk telemetry. By integrating signals from Microsoft Intune and Microsoft Defender for Endpoint into Microsoft Entra ID authentication workflows, the architecture enables adaptive access decisions that evolve alongside user behaviour and device health.
 
-This integration supports a modern Zero Trust approach where trust is continuously evaluated, and access reflects real-time context rather than static assumptions.
+This integration supports a modern Zero Trust approach where trust is continuously evaluated, and access reflects real-time context.
 

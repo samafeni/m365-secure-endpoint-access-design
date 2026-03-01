@@ -29,7 +29,7 @@ This repository documents an anonymised Microsoft 365 secure endpoint architectu
 
 
 > Secure endpoint architecture derived from an anonymised real-world Microsoft 365 implementation.
-> This project focuses on **design thinking, security posture, and operational considerations** rather than step-by-step configuration.
+> This project focuses on **design thinking, security posture, and operational considerations**.
 
 ---
 

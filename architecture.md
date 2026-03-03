@@ -12,6 +12,7 @@ Microsoft Entra ID operates as the central Zero Trust control point, while Micro
 
 ---
 
+
 ## Architecture Diagram
 
 ![Endpoint Secure Access Architecture](diagrams/endpoint-architecture.gif)

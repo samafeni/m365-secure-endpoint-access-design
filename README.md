@@ -107,6 +107,8 @@ Architecture diagrams are located in:
 ![Endpoint Secure Access Architecture](diagrams/endpoint-architecture.gif)
 
 
+
+
 ## Conditional Access Decision Flow
 
 ![Conditional Access Decision Flow](diagrams/conditional-access-flow.gif)
